@@ -21,9 +21,10 @@ const chalk = require('chalk');
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 module.exports = {
       BASE_URL: "https://queen-api-production.up.railway.app", //Queen-AI Base API Url
-      SESSION_ID: process.env.SESSION_ID || "PASTE HERE", //enter your session id here
-      OWNER_NUMBER: process.env.OWNER_NUMBER || "9277XXXXXX", //Owner whatsapp number here
-      OWNER_NAME: process.env.OWNER_NAME || "DarkWinzo", //Queen-AI Owner Name here
+      SESSION_ID: process.env.SESSION_ID || "QUEEN-AI;;;QuotesSavior
+", //enter your session id here
+      OWNER_NUMBER: process.env.OWNER_NUMBER || "94707330800", //Owner whatsapp number here
+      OWNER_NAME: process.env.OWNER_NAME || "𝗖𝚈𝙱𝙴𝚁 𝗭𝚄𝙴𝚂", //Queen-AI Owner Name here
       PREFIX: ".", //Don't Change This..
       LANGUAGE: process.env.LANGUAGE || "SI" //Enter bot working language EN = English / SI = Sinhala /ML = Malayalam /HI =Hindi /UR = Urdu /FR = French
 };
